@@ -1,0 +1,41 @@
+header {
+    background-color: skyblue;
+    border-radius: 25px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+
+.info {
+    background-color: silver;
+    color: rgba(5, 104, 233, 0.552);
+    text-align: center;
+    border-radius: 25px;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid;
+    
+}
+
+h3 {
+    text-align: center;
+    background-color: skyblue;
+    color: green;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 500px;
+}
